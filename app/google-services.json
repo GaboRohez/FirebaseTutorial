@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1030559242210",
+    "project_id": "batidev-tutorial",
+    "storage_bucket": "batidev-tutorial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030559242210:android:55edf2606d557afc9c4bbb",
+        "android_client_info": {
+          "package_name": "com.example.firebasetutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030559242210-429j1nc87qrnath3ldsih4ftslq9ih1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQXJ7R0HP7Ylnyu8IjeT5wxvdSUx96sdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030559242210-429j1nc87qrnath3ldsih4ftslq9ih1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
